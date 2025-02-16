@@ -43,7 +43,7 @@ Chaque classe comprend **6 000 images**.
 ## 📂 Structure du projet
 
 ```
-📁 Image_Classification_Project
+📁 Classification-d-images
 ️└️ 📄 Classification_Images.ipynb  # Notebook avec le code et l'analyse
 ️└️ 📄 README.md                    # Documentation du projet
 
